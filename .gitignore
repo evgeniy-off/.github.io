@@ -1,4 +1,4 @@
 
 .gitattributes
 # игнорировать все файлы в каталоге build/
-app/
+app/*
