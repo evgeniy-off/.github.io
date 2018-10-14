@@ -130,3 +130,6 @@ select,
 textarea {
   border: none;
 }
+body{
+  background-color: pink;
+}
